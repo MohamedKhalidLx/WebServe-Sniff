@@ -35,6 +35,7 @@ Here's a README template for your project:
 1. **Update Ubuntu Packages**:
    ```bash
    sudo apt-get update
+   sudo apt-get upgrade
    ```
 2. **Install Apache2**:
    ```bash
