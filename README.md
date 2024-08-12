@@ -1,7 +1,3 @@
-Here's a README template for your project:
-
----
-
 # **WebServe & Sniff: Building and Analyzing an Apache-Hosted Hello World Site**
 
 ## **Project Overview**
@@ -111,7 +107,3 @@ This project provided hands-on experience with web server setup, website hosting
 For any questions or feedback, please contact:
 - **Name**: Mohamed Khaled Mahmoud Sayed
 - **Email**: Mo7ammad244@gmail.com
-
----
-
-This README will help others understand the purpose of your project, how to set it up, and what to expect from it. Make sure to update the placeholders with your actual information.
