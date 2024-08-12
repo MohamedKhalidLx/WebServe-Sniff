@@ -107,3 +107,7 @@ This project provided hands-on experience with web server setup, website hosting
 For any questions or feedback, please contact:
 - **Name**: Mohamed Khaled Mahmoud Sayed
 - **Email**: Mo7ammad244@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
