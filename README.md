@@ -53,9 +53,16 @@ Here's a README template for your project:
      ```
    - Add the following HTML content:
      ```html
-     <html>
-     <head><title>Hello World</title></head>
-     <body><h1>Hello World!</h1></body>
+     <!DOCTYPE html>
+     <html lang="en">
+     <head>
+      <meta charset="UTF-8">
+      <meta name="description" content="A simple Hello World example in HTML.">
+      <title>Hello World</title>
+     </head>
+       <body>
+       <h1>Hello World!</h1>
+       </body>
      </html>
      ```
 5. **Verify Server Accessibility**:
@@ -92,9 +99,9 @@ Here's a README template for your project:
 
 ## **Screenshots**
 1. **'Hello World' Webpage**:
-   - ![Hello World Webpage](path/to/screenshot1.png)
+   - ![Hello World Webpage](Images/Web_Server.png)
 2. **Wireshark HTTP Analysis**:
-   - ![Wireshark Analysis](path/to/screenshot2.png)
+   - ![Wireshark Analysis](Images/Packet_Analysis.png)
 
 ## **Conclusion**
 This project provided hands-on experience with web server setup, website hosting, and HTTP traffic analysis. It enhanced understanding of the HTTP protocol and the importance of network monitoring tools like Wireshark.
